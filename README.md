@@ -13,15 +13,15 @@ Charla de diseno por @makyp
 
 # Tamaño titulo, tamaño subtitulos
 
-Tipo de letras serios
+* Tipo de letras serios
 
-Los iconos
+# Los iconos
 
-Google Icons - > Dentro del proceso de desarrollo sea mucho mas facil para el desarrollador
+* Google Icons - > Dentro del proceso de desarrollo sea mucho mas facil para el desarrollador
 
 
-Formato svg o png
-Los iconos puedan dar el codigo y les pueda dar el color
+# Formato svg o png
+* Los iconos puedan dar el codigo y les pueda dar el color
 
 Wireframes (Mockups) en canva
 
