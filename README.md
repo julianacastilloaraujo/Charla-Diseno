@@ -5,7 +5,7 @@ Charla de diseno por @makyp 👩‍💻
 # Identidad : Tipografia y el color 💜💚💙
 
 * Paleta de colores
-* Herramienta Adobe Color =
+* Herramienta Adobe Color 
 * Colores analogos
 * La teoria del color 
 * Tipo de letra y tamaño
