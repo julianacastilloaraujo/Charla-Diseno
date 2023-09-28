@@ -11,7 +11,7 @@ Charla de diseno por @makyp
 * Tipo de letra y tamaño
 * Google fonts (Maximo 3 tipos de letras)
 
-Tamaño titulo, tamaño subtitulos
+# Tamaño titulo, tamaño subtitulos
 
 Tipo de letras serios
 
